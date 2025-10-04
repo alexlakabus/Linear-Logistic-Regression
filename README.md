@@ -8,13 +8,13 @@ Both notebooks explore and test preproccesing, feature engineering, model traini
 
 ## Notebooks Overview
 
-1. Linear Regression
+1. **Linear Regression**
    - Predics diamond prices
    - Techniques: Ordinal Encoding, Log-Scaling, Feature Engineering, TrainTestSplit, and evaluation using Scatter Plots
    - Key Takeaway: log-scaling drastically improved the score: ~0.90 to ~0.97
    - Some thoughts: I had an amazing time coding this model, espacially at the time of finding out the huge difference log-scaling made while testing out scaling methods
 
-2. Logistic Regression
+2. **Logistic Regression**
    - Categorizes the prices into 4 bins
    - Techniques: Ordinal Encoding,  Feature Engineering, Standard Scaling, GridSearchCV + Pipeline, and Confusion Matric for evaluation
    - Key Takeaway: Even small differences in predicted price can rezult in misclasification, overall score: ~0.92
