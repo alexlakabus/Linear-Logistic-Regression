@@ -20,9 +20,10 @@ Both notebooks explore and test preproccesing, feature engineering, model traini
    - Key Takeaway: Even small differences in predicted price can rezult in misclasification, overall score: ~0.92
    - Some thoughts: It is the first classifier that I ran on a regression dataset (converted into a classification dataset). Personally, the most important part of this notebook was the **Confusion Matrix**, showing that a score of ~0.92 can be somewhat decieving, as in reality the predictions are often very close but considered wrong because they where classified int to a bin adjecent to the correct one because of a small value difference
   
-## Requirements
+## Usage Guide
   - Python: 3.13.7
   - Libraries: pandas, numpy, seaborn, scikit-learn, matplotlib
+  
   Clone repository:
 
   ```bash
