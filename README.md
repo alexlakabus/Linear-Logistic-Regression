@@ -23,7 +23,8 @@ Both notebooks explore and test preproccesing, feature engineering, model traini
 ## Requirements
   - Python: 3.13.7
   - Libraries: pandas, numpy, seaborn, scikit-learn, matplotlib
-  Install requirements by:
+  Clone repository:
+
   ```bash
   git clone https://github.com/alexlakabus/Linear-Logistic-Regression.git
   ```
