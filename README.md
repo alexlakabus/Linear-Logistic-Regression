@@ -27,7 +27,7 @@ Both notebooks explore and test preproccesing, feature engineering, model traini
   Clone repository:
 
   ```bash
-  git clone https://github.com/alexlakabus/Linear-Logistic-Regression.git
+  git clone https://github.com/lakalex/Linear-Logistic-Regression.git
   ```
   Open the notebooks in VS Code or Jupyter Notebook
 
